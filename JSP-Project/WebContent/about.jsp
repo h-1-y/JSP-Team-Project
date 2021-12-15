@@ -54,7 +54,7 @@
             
             
             <div class="site-section-heading pt-3 mb-4">
-              <h2 class="text-black">Semi - Projectaaaaaa</h2>
+              <h2 class="text-black">Semi - Project</h2>
               <h3>(Shopping Mall)</h3>
             </div>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius repellat, dicta at laboriosam, nemo exercitationem itaque eveniet architecto cumque, deleniti commodi molestias repellendus quos sequi hic fugiat asperiores illum. Atque, in, fuga excepturi corrupti error corporis aliquam unde nostrum quas.</p>
